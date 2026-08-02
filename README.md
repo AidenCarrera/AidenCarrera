@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./skyline.gif" alt="Pixel-art city skyline" />
-  <h1>Hi I'm Aiden 👋</h1>
+  <h1>Hey I'm Aiden 👋</h1>
   <a href="https://wakatime.com/@c908d7b0-3597-4b40-8cc0-8c1683246aba">
     <img src="https://wakatime.com/badge/user/c908d7b0-3597-4b40-8cc0-8c1683246aba.svg" alt="WakaTime" />
   </a>
@@ -15,18 +15,18 @@
   </a>
   <br />
   <br />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
 </div>
 
 ## About me
 
-Hey, I’m Aiden. I’m a Computer Science student in the Oklahoma State University Honors College, graduating in 2026. I build web apps, audio tools, AI projects, and games, with a particular interest in software engineering, audio programming, and creative work.
+I'm a Computer Science student in the Oklahoma State University Honors College, graduating in December 2026. I build web apps, audio tools, AI projects, and games, with an interest in software engineering, audio programming, and creative technology.
 
-Outside of software, I’m a performer, composer, and producer. I perform with the OSU Jazz Band and Resistance Indoor Percussion, and I record, mix, and master my own music.
+Outside of software, I'm a performer, composer, and producer. I perform with the OSU Jazz Band and Resistance Indoor Percussion, and I write, record, mix, and master my own music.
 
 ## What I like building
 
